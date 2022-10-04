@@ -8,9 +8,9 @@ padding:0;
 header{
 	background-position: center center;
 	background:url(img//fondo.jpg);
-	background-size:cover;
+	
         overflow:hidden;
-	width: 100%;
+
 
 
 }
