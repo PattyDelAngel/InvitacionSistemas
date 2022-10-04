@@ -6,9 +6,10 @@ padding:0;
 }
 
 header{
+	background-position: center center;
 	background:url(img//fondo.jpg);
 	background-size:cover;
-height: 100%;
+        overflow:hidden;
 	width: 100%;
 
 
